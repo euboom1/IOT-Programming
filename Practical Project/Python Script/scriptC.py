@@ -5,7 +5,7 @@ import time
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Hahalollmao321",
+    password="12345",
     database="iot_data"
 )
 cursor = mydb.cursor()
