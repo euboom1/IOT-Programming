@@ -4,7 +4,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Hahalollmao321",
+    password="Hahalollmao32",
     database="iot_data"
 )
 cursor = mydb.cursor()
